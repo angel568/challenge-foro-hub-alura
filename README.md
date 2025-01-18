@@ -22,7 +22,7 @@ Este proyecto utiliza las siguientes dependencias:
 
 ## Instalación
 
-1. Clona el repositorio en tu máquina local usando `git clone https://github.com/m3lb1z/foro-hub.git`
+1. Clona el repositorio en tu máquina local usando `git clone https://github.com/angel568/challenge-foro-hub-alura`
 2. Navega hasta el directorio del proyecto usando `cd foro-hub`
 3. Compila el proyecto usando `mvn clean install`
 4. Inicia la aplicación con `java -jar target/foro-hub-0.0.1-SNAPSHOT.jar`
